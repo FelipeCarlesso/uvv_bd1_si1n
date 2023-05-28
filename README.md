@@ -16,8 +16,10 @@
 O Pset é um conjunto de problemas e atividades difíceis (alguns extremamente difíceis) que o forçam a estudar e realmente compreender a matéria.
 Esse trabalho tem como objetivo a criação de um banco de dados pela a máquina virtual, com a utilização da ferramenta SQL Power Architect, onde foi realizado o projeto lógico, utilização de códigos SQL para geração de diversos relatórios.
 
-## Softwares e Programas utilizados 
-|SQL Power Architect  |
-|Emacs                |
-|DBeaver              |
-|Linha de Comando     |
+## Softwares utilizados 
+| Softwares             |
+|-----------------------|
+| SQL Power Architect   |
+| Emacs                 |
+| DBeaver               |
+| Linha de Comando      |
