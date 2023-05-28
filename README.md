@@ -9,9 +9,9 @@
 
 ## Diretórios 
 - **[pset1](https://github.com/FelipeCarlesso/uvv_bd1_si1n/tree/main/pset1)**
-- **[si1n_202306103_postgresql.architect](https://github.com/FelipeCarlesso/uvv_bd1_si1n/blob/main/pset1/si1n_202306103_postgresql.architect)**
-- **[si1n_202306103_postgresql.pdf](https://github.com/FelipeCarlesso/uvv_bd1_si1n/blob/main/pset1/si1n_202306103_postgresql.pdf)**
-- **[si1n_202306103_postgresql.sql]()**
+   - **[si1n_202306103_postgresql.architect](https://github.com/FelipeCarlesso/uvv_bd1_si1n/blob/main/pset1/si1n_202306103_postgresql.architect)**
+   - **[si1n_202306103_postgresql.pdf](https://github.com/FelipeCarlesso/uvv_bd1_si1n/blob/main/pset1/si1n_202306103_postgresql.pdf)**
+   - **[si1n_202306103_postgresql.sql]()**
 
 ## PSET 
 O Pset é um conjunto de problemas e atividades difíceis (alguns extremamente difíceis) que o forçam a estudar e realmente compreender a matéria.
