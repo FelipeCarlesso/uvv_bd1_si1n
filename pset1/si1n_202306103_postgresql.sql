@@ -27,11 +27,12 @@ lc_ctype            =  'pt_BR.UTF-8'
 allow_connections   =          true
 ;
 
---CONECTANDO AO BANCO DE DADOS--
-\c uvv
-;
 --COMENTANDO O BANCO DE DADOS--
 COMMENT ON DATABASE uvv IS 'BANCO DE DADOS COM AS INFORMAÇÕES PRESENTES DO DIAGRAMA LOJAS UVV.'
+;
+
+--CONECTANDO AO BANCO DE DADOS--
+\c 'postgresql://felipe:1234@localhost:5432/uvv'
 ;
 
 --CRIAÇÃO DO SCHEMA--
@@ -44,11 +45,11 @@ SET SEARCH_PATH TO lojas, "$user", public
 
 --COMANDO PARA DEFINIR O SCHEMA lojas COMO PADRÃO--
 ALTER USER felipe
-;
 SET SEARCH_PATH TO lojas, "$user", public
 ;
 
 --FIM DO PRIMEIRO BLOCO--
+
 
 --SEGUNDO BLOCO--
 
